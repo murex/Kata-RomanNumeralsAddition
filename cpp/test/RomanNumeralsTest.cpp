@@ -4,7 +4,7 @@
 #include <string>
 #include <gtest/gtest.h>
 
-TEST(RomanNumerals, acceptance_test)
+TEST(RomanNumerals, DISABLED_acceptance_test)
 {
 	EXPECT_EQ("MMXIX", kata::roman_numerals::add("CXXIV", "MDCCCXCV"));
 }
