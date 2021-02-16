@@ -1,10 +1,10 @@
 
 #include <kata/roman_numerals/RomanNumerals.hpp>
 
+#include <string>
 #include <gtest/gtest.h>
 
 TEST(RomanNumerals, acceptance_test)
 {
-    // TODO Replace with an acceptance test relevant for this kata
-	EXPECT_EQ(42, kata::roman_numerals::doSomething());
+	EXPECT_EQ("MMXIX", kata::roman_numerals::add("CXXIV", "MDCCCXCV"));
 }

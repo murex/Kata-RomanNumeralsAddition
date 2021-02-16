@@ -1,13 +1,13 @@
 
 #include <kata/roman_numerals/RomanNumerals.hpp>
+#include <string>
 
 namespace kata {
 namespace roman_numerals {
 
-// TODO Replace with a method more relevant for the kata
-int doSomething()
+std::string add(const std::string number1, const std::string number2)
 {
-   return 42;
+   return "";
 }
 
 } // namespace roman_numerals
