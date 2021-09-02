@@ -5,7 +5,7 @@ Image by [Crissy Jarvis](https://unsplash.com/@crissyjarvis) on [Unsplash](https
 
 ## Description
 
-The main intent of this kata is to practice Mob Programming.
+The main intent of this kata is to practice Mob Programming and agree on a preferred mobbing style for the team.
 
 For this we will run a variant of the Roman Numerals Converter kata, where 
 we intend this time to calculate the sum of 2 roman numbers.
@@ -34,6 +34,8 @@ To add a bit of fun, we will do it without any use of integers._
 | 7    | [Mini Retro](./MiniRetro.md) |
 | 8    | Dojo without observers, only navigators, one speaks at a time |
 | 9    | [Mini Retro](./MiniRetro.md) |
+| 10   | Final retrospective: Agree on the team's preferred mobbing style |
+
 
 ## Session Quick Retrospective
 
