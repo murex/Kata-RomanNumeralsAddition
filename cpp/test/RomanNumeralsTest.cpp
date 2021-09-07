@@ -6,5 +6,5 @@
 
 TEST(RomanNumerals, DISABLED_acceptance_test)
 {
-	EXPECT_EQ("MMXIX", kata::roman_numerals::add("CXXIV", "MDCCCXCV"));
+	EXPECT_EQ("MMXIX", com::murex::kata::roman_numerals::add("CXXIV", "MDCCCXCV"));
 }
