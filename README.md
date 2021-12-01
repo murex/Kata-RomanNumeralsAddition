@@ -38,19 +38,12 @@ To add a bit of fun, we will do it without any use of integers._
 
 ## Getting Started
 
-### Running the kata using TCR
-
-- [Java](./java/GETTING_STARTED_TCR.md)
-- [C++](./cpp/GETTING_STARTED_TCR.md)
-
-### Running the kata using a standard approach
-
-- [Java](./java/GETTING_STARTED.md)
-- [C++](./cpp/GETTING_STARTED.md)
+- [Java](java/GETTING_STARTED.md)
+- [C++](cpp/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
-You can fill it from [here](./QuickRetrospective.md)
+You can fill it from [here](QuickRetrospective.md)
 
 ## Useful Links
 
@@ -73,7 +66,7 @@ You can fill it from [here](./QuickRetrospective.md)
 
 ### Style & Duration
 
-- 2-hour [Mob Kata](./doc/MobProgramming.md)
+- 2-hour [Mob Kata](doc/MobProgramming.md)
 
 ### Topic
 
@@ -88,18 +81,18 @@ You can fill it from [here](./QuickRetrospective.md)
 
 ### Source Files
 
-- [Java](./java)
-- [C++](./cpp)
+- [Java](java)
+- [C++](cpp)
 
 ## License
 
 `Kata-RomanNumeralsAddition` and the accompanying materials are made available
-under the terms of the [MIT License](./LICENSE.md) which accompanies this
+under the terms of the [MIT License](LICENSE.md) which accompanies this
 distribution, and is available at the [Open Source site](https://opensource.org/licenses/MIT)
 
 ## Acknowledgements
 
-See [ACKNOWLEDGEMENTS.md](./ACKNOWLEDGEMENTS.md) for more information.
+See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for more information.
 
 ## Contributors
 
