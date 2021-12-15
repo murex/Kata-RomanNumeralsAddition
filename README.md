@@ -3,8 +3,6 @@
 ![Kata Image](./images/Abacus.jpg) <br>
 "[Abacus](https://unsplash.com/photos/gdL-UZfnD3I)" by [Crissy Jarvis](https://unsplash.com/@crissyjarvis) is licenced under [Unsplash License](https://unsplash.com/license)
 
-Image by  on [Unsplash](https://unsplash.com/photos/gdL-UZfnD3I)
-
 ## Description
 
 The main intent of this kata is to practice Mob Programming and agree on a preferred mobbing style for the team.
