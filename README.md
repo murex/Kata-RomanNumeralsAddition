@@ -31,14 +31,14 @@ To add a bit of fun, we will do it without any use of integers._
 
 | Step | Description |
 | --- | --- |
-| 1    | A bit of theory<ul><li>driver and navigator</li><li>strong style pairing</li><li>driver as smart input device</li><li>silent driver</li><li>never comment, delete or ignore passing test</li></ul> |
-| 2    | Start by practicing 4 minutes turning (even for C++, 4 minutes are ok)<br>![Organisation](./images/MobOrganisation.png)<ul><li>navigator standing</li><li>raise hands</li><li>turn</li></ul> |
+| 1    | Start with a short briefing about mob programming theory<ul><li>What are the driver and navigator role</li><li>What is strong-style pairing</li><li>The driver as a smart input device</li><li>Why the driver remains silent</li></ul>Rule for today: never comment, delete, or ignore a passing test. |
+| 2    | Start by practicing round robin (without any coding yet).<ul><li>The navigator is standing</li><li>The bell rings</li><li>Everybody raise their hands</li><li>Everyone moves one place to their left</li><li>Repeat for a full round</li></ul>For the rest of the session, we will use 4 minutes rounds (even for C++, 4 minutes are ok for this kata).<br>![Organisation](./images/MobOrganisation.png) |
 | 3    | [Mini Retro](./MiniRetro.md) |
-| 4    | Dojo with silent observers and driver |
+| 4    | Start work on the kata with silent observers and driver |
 | 5    | [Mini Retro](./MiniRetro.md) |
-| 6    | Dojo with observers allowed to speak, one at a time, after they raise their hands |
+| 6    | Continue coding. The observers are now allowed to speak, one at a time, only after they raise their hand |
 | 7    | [Mini Retro](./MiniRetro.md) |
-| 8    | Dojo without observers, only navigators, one speaks at a time |
+| 8    | Continue. This time, all observers are upgraded to navigators, but they should self-discipline to only speak one at a time |
 | 9    | [Mini Retro](./MiniRetro.md) |
 | 10   | Final retrospective: Agree on the team's preferred mobbing style |
 
