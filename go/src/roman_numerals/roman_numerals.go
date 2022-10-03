@@ -22,6 +22,6 @@ SOFTWARE.
 
 package roman_numerals
 
-func doSomething() int {
-	return 42
+func add(roman1, roman2 string) string {
+	return ""
 }
