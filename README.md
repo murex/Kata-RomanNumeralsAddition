@@ -48,6 +48,7 @@ To add a bit of fun, we will do it __without any use of integers.__
 - [Java](java/GETTING_STARTED.md)
 - [C++](cpp/GETTING_STARTED.md)
 - [Go](go/GETTING_STARTED.md)
+- [Python](python/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
@@ -94,6 +95,7 @@ You can fill it from [here](QuickRetrospective.md)
 - [Java](java)
 - [C++](cpp)
 - [Go](go)
+- [Python](python)
 
 ## License
 
