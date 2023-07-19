@@ -26,3 +26,9 @@ updates:
     directory: "/go"
     schedule:
       interval: weekly
+
+  # Maintain dependencies for Python
+  - package-ecosystem: pip
+    directory: "/python"
+    schedule:
+      interval: weekly
