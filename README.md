@@ -49,6 +49,7 @@ To add a bit of fun, we will do it __without any use of integers.__
 - [C++](cpp/GETTING_STARTED.md)
 - [Go](go/GETTING_STARTED.md)
 - [Python](python/GETTING_STARTED.md)
+- [Typescript](typescript/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
@@ -96,6 +97,7 @@ You can fill it from [here](QuickRetrospective.md)
 - [C++](cpp)
 - [Go](go)
 - [Python](python)
+- [Typescript](typescript)
 
 ## License
 
