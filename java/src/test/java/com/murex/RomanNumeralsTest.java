@@ -26,11 +26,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-public class RomanNumeralsTest {
+class RomanNumeralsTest {
     
     @Disabled
     @Test
-    public void acceptance_test() {
+    void acceptance_test() {
         assertEquals("MMXIX", RomanNumerals.add("CXXIV", "MDCCCXCV"));
     }
 }
