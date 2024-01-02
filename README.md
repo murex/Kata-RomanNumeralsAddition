@@ -7,7 +7,7 @@
 
 # Roman Numerals Addition
 
-![Kata Image](./images/Abacus.jpg) <br>
+![Kata Image](images/Abacus.jpg) <br>
 "[Abacus](https://unsplash.com/photos/gdL-UZfnD3I)" by [Crissy Jarvis](https://unsplash.com/@crissyjarvis) is licenced under [Unsplash License](https://unsplash.com/license)
 
 ## Description
@@ -45,9 +45,9 @@ To add a bit of fun, we will do it __without any use of integers.__
 
 ## Getting Started
 
-- [Java](java/GETTING_STARTED.md)
 - [C++](cpp/GETTING_STARTED.md)
 - [Go](go/GETTING_STARTED.md)
+- [Java](java/GETTING_STARTED.md)
 - [Python](python/GETTING_STARTED.md)
 - [Typescript](typescript/GETTING_STARTED.md)
 
@@ -93,9 +93,9 @@ You can fill it from [here](QuickRetrospective.md)
 
 ### Source Files
 
-- [Java](java)
 - [C++](cpp)
 - [Go](go)
+- [Java](java)
 - [Python](python)
 - [Typescript](typescript)
 
